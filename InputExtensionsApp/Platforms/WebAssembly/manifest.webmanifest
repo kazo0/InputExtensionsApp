@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "InputExtensionsApp",
+  "display": "standalone",
+  "name": "InputExtensionsApp",
+  "short_name": "InputExtensionsApp",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
